@@ -1,0 +1,14 @@
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\bin\Debug\net6.0-windows\AntiRecoilApp.exe
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\bin\Debug\net6.0-windows\AntiRecoilApp.deps.json
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\bin\Debug\net6.0-windows\AntiRecoilApp.runtimeconfig.json
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\bin\Debug\net6.0-windows\AntiRecoilApp.dll
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\bin\Debug\net6.0-windows\AntiRecoilApp.pdb
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.AssemblyInfoInputs.cache
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.AssemblyInfo.cs
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.dll
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\refint\AntiRecoilApp.dll
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.pdb
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\AntiRecoilApp.genruntimeconfig.cache
+C:\Users\Francesco\Downloads\AntiRecoilSCP_TriggerFixed\obj\Debug\net6.0-windows\ref\AntiRecoilApp.dll
