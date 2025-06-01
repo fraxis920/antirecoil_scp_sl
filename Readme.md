@@ -34,4 +34,4 @@ Y: Vertical mouse movement (higher value = stronger downward pull)
 
 Example: { "AK", new PointF(0f, 3.7f) } → no horizontal compensation, 3.7 pixels downward per shot.
 
-
+for every error please send an email at francifrassi07@gmail.com
